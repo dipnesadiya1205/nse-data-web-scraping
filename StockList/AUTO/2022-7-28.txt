@@ -1,0 +1,7 @@
+Date: 28-Jul-2022 14:31:46
+Name: Bajaj Auto Limited 
+Price: 3,858.00
+Basic Industry: 2/3 Wheelers
+Derivatives: Yes
+Change: -25.85 (-0.67%)
+

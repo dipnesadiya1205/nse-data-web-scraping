@@ -1,0 +1,104 @@
+Date: 28-Jul-2022 12:48:45
+Name: Britannia Industries Limited 
+Price: 3,875.00
+Basic Industry: Packaged Foods
+Derivatives: Yes
+Change: 20.45 (0.53%)
+
+Date: 28-Jul-2022 12:49:45
+Name: ITC Limited 
+Price: 304.30
+Basic Industry: Diversified FMCG
+Derivatives: Yes
+Change: 0.15 (0.05%)
+
+Date: 28-Jul-2022 12:49:45
+Name: TATA CONSUMER PRODUCTS LIMITED 
+Price: 806.10
+Basic Industry: Tea & Coffee
+Derivatives: Yes
+Change: 4.50 (0.56%)
+
+Date: 28-Jul-2022 12:51:15
+Name: Godrej Consumer Products Limited 
+Price: 847.75
+Basic Industry: Personal Care
+Derivatives: Yes
+Change: 1.45 (0.17%)
+
+Date: 28-Jul-2022 12:54:15
+Name: Hindustan Unilever Limited 
+Price: 2,618.75
+Basic Industry: Diversified FMCG
+Derivatives: Yes
+Change: 36.80 (1.43%)
+
+Date: 28-Jul-2022 12:58:15
+Name: Nestle India Limited 
+Price: 19,327.55
+Basic Industry: Packaged Foods
+Derivatives: Yes
+Change: 785.65 (4.24%)
+
+Date: 28-Jul-2022 12:58:15
+Name: United Spirits Limited 
+Price: 782.25
+Basic Industry: Breweries & Distilleries
+Derivatives: Yes
+Change: -10.65 (-1.34%)
+
+Date: 28-Jul-2022 12:59:15
+Name: Colgate Palmolive (India) Limited 
+Price: 1,543.50
+Basic Industry: Personal Care
+Derivatives: Yes
+Change: -20.40 (-1.30%)
+
+Date: 28-Jul-2022 12:59:15
+Name: Dabur India Limited 
+Price: 574.00
+Basic Industry: Personal Care
+Derivatives: Yes
+Change: 6.25 (1.10%)
+
+Date: 28-Jul-2022 13:00:45
+Name: Procter & Gamble Hygiene and Health Care Limited 
+Price: 14,206.70
+Basic Industry: Personal Care
+Derivatives: No
+Change: 54.85 (0.39%)
+
+Date: 28-Jul-2022 13:03:15
+Name: Marico Limited 
+Price: 512.05
+Basic Industry: Personal Care
+Derivatives: Yes
+Change: -2.95 (-0.57%)
+
+Date: 28-Jul-2022 13:03:15
+Name: Radico Khaitan Limited 
+Price: 962.30
+Basic Industry: Breweries & Distilleries
+Derivatives: No
+Change: -6.50 (-0.67%)
+
+Date: 28-Jul-2022 13:04:15
+Name: Varun Beverages Limited 
+Price: 877.55
+Basic Industry: Other Beverages
+Derivatives: No
+Change: 7.65 (0.88%)
+
+Date: 28-Jul-2022 13:05:45
+Name: United Breweries Limited 
+Price: 1,642.00
+Basic Industry: Breweries & Distilleries
+Derivatives: Yes
+Change: 3.65 (0.22%)
+
+Date: 28-Jul-2022 13:05:45
+Name: Emami Limited 
+Price: 458.95
+Basic Industry: Personal Care
+Derivatives: No
+Change: -6.45 (-1.39%)
