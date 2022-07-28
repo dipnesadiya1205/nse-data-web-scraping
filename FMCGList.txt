@@ -1,0 +1,105 @@
+Date: 22-Jul-2022 16:00:00
+Name: Emami Limited 
+Price: 467.00
+Basic Industry: Personal Care
+Derivatives: No
+Change: -3.60 (-0.76%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Hindustan Unilever Limited 
+Price: 2,636.00
+Basic Industry: Diversified FMCG
+Derivatives: Yes
+Change: 28.55 (1.09%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Dabur India Limited 
+Price: 576.00
+Basic Industry: Personal Care
+Derivatives: Yes
+Change: 4.05 (0.71%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Britannia Industries Limited 
+Price: 3,863.45
+Basic Industry: Packaged Foods
+Derivatives: Yes
+Change: 7.95 (0.21%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Colgate Palmolive (India) Limited 
+Price: 1,606.00
+Basic Industry: Personal Care
+Derivatives: Yes
+Change: -0.35 (-0.02%)
+
+Date: 22-Jul-2022 16:00:00
+Name: TATA CONSUMER PRODUCTS LIMITED 
+Price: 803.00
+Basic Industry: Tea & Coffee
+Derivatives: Yes
+Change: -15.30 (-1.87%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Radico Khaitan Limited 
+Price: 942.10
+Basic Industry: Breweries & Distilleries
+Derivatives: No
+Change: 7.25 (0.78%)
+
+Date: 22-Jul-2022 16:00:00
+Name: United Spirits Limited 
+Price: 844.50
+Basic Industry: Breweries & Distilleries
+Derivatives: Yes
+Change: 1.10 (0.13%)
+
+Date: 22-Jul-2022 16:00:00
+Name: ITC Limited 
+Price: 299.90
+Basic Industry: Diversified FMCG
+Derivatives: Yes
+Change: 0.35 (0.12%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Nestle India Limited 
+Price: 19,005.10
+Basic Industry: Packaged Foods
+Derivatives: Yes
+Change: 165.15 (0.88%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Marico Limited 
+Price: 529.20
+Basic Industry: Personal Care
+Derivatives: Yes
+Change: 3.40 (0.65%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Procter & Gamble Hygiene and Health Care Limited 
+Price: 14,206.95
+Basic Industry: Personal Care
+Derivatives: No
+Change: 10.70 (0.08%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Godrej Consumer Products Limited 
+Price: 883.00
+Basic Industry: Personal Care
+Derivatives: Yes
+Change: 6.20 (0.71%)
+
+Date: 22-Jul-2022 16:00:00
+Name: United Breweries Limited 
+Price: 1,678.15
+Basic Industry: Breweries & Distilleries
+Derivatives: Yes
+Change: 8.75 (0.52%)
+
+Date: 22-Jul-2022 16:00:00
+Name: Varun Beverages Limited 
+Price: 871.00
+Basic Industry: Other Beverages
+Derivatives: No
+Change: -0.95 (-0.11%)
+
